@@ -1,2 +1,1 @@
-"# tambahmantan" 
 "# iniapa.github.io" 
